@@ -1,3 +1,7 @@
 # Allele Specific Expression (ASE)
 
-Update this to describe your awesome project.
+Allele specific expression pipeline
+
+Developed by adam.streck@gmail.com  
+
+Created at MDC-BIMSB Berlin.
